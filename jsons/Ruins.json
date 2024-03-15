@@ -76,25 +76,23 @@
 		"name": "a praying priest",
 		"notification": "A dying priest pray for you! (+[faithAmount] faith)",
 		"uniques": ["Hidden when religion is disabled", "Gain [100]-[250] [Faith]", "Only available <after founding a Pantheon>",
-					"Only available <after [40] turns>"],
+					"Only available <after [140] turns>"],
 		"color": "#CDDDF4"
 	},
 	{
 		"name": "a wandering oracle",
 		"notification": "An oracle foresee your future! (+[faithAmount] faith)",
 		"uniques": ["Hidden when religion is disabled", "Gain [250]-[350] [Faith]", "Only available <after founding a Pantheon>",
-					"Only available <after [60] turns>"],
+					"Only available <after [150] turns>"],
 		"color": "#CDDDF4"
 	},
-	
 	// Population
 	{
-		"name": "accepted immigrants (adds 3 population to a city)",
+		"name": "accepted immigrants (adds 1 population to a city)",
 		"notification": "A family of immigrants saved in the ruins! Population added to [cityName].",
-		"uniques": ["[+3] population [in capital]", "Only available <after [40] turns>"],
+		"uniques": ["[+1] population [in capital]", "Only available <after [40] turns>"],
 		"color": "#81c784"
 	},
-	
 	// Native
 	{
 		"name": "free a general",
@@ -109,7 +107,6 @@
         "uniques": ["Free [Great Merchant] found in the ruins"],
 		"color": "#e89220"
     },
-	
 	// Military
 	{
 		"name": "your exploring unit receives training",
@@ -147,7 +144,6 @@
 		"uniques": ["Free [Wayfarer] appears", "Only available <after [90] turns>"],
 		"color": "#20afe8"
 	},
-	
 	// Maps
 	{
 		"name": "reveal nearby Bonus resource",
@@ -166,7 +162,6 @@
 		"notification": "We have found a well-drawn map in the ruins!",
 		"uniques": ["From a randomly chosen tile [5] tiles away from the ruins, reveal tiles up to [5] tiles away with [100]% chance"]
 	},
-	
 	// Triggerable
 	{
 		"name": "into era of greatness",
